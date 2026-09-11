@@ -24,5 +24,5 @@ R; packages `TruncatedNormal` and `boot`.
 
 **Key output:**
 
-*Estimated mean AP ingestion count = **~435,710 AP/day** (95% CI: **417,826 - 455,033 AP/day**). 
-*Estimated mean AP ingestion mass = **~1.32 g/day** (95% CI: **1.26–1.37 g/day**).
+* Estimated mean AP ingestion count = **~435,710 AP/day** (95% CI: **417,826 - 455,033 AP/day**). 
+* Estimated mean AP ingestion mass = **~1.32 g/day** (95% CI: **1.26–1.37 g/day**).
