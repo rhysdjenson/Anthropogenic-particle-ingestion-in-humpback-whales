@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "anthropogenic-particle-ingestion-in-humpback-whales"
+authors:
+  - family-names: "Jenson"
+    given-names: "Rhys D."
+    orcid: "https://orcid.org/0009-0009-8748-7731"
+repository-code: "https://github.com/rhysdjenson/anthropogenic-particle-ingestion-in-humpback-whales"
+url: "https://github.com/rhysdjenson/anthropogenic-particle-ingestion-in-humpback-whales"
+version: "1.0.0"
+date-released: "2026-09-11"
+license: "MIT"
