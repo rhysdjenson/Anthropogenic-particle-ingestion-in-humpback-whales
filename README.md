@@ -1,4 +1,4 @@
-# README — Jenson_HumpbackAP_CodeS1_EP.R
+# README 
 
 **Purpose:**
 R code used to estimate daily anthropogenic particle (AP) ingestion by humpback whales from fecal AP concentrations and prey consumption.
